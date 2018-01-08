@@ -1,3 +1,2 @@
 # robOcto
-Life is good.
-Enjoy
+Life is good
